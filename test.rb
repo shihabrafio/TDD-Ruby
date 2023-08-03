@@ -34,6 +34,6 @@ describe 'fizzbuzz an integer' do
   end
 
   it 'Should return fizz' do
-    expect(solver.fizzbuzz(7)).to eq(7.to_s)
+    expect(solver.fizzbuzz(7)).to eq("7")
   end
 end
