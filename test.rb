@@ -13,3 +13,9 @@ describe 'factorial' do
     expect { solver.factorial(-7) }.to raise_error(ArgumentError)
   end
 end
+
+describe 'reverse' do
+  it 'reverse a string' do
+    expect(solver.reverse_str("hello")).to eq("olleh")
+  end
+end

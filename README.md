@@ -102,6 +102,12 @@ rubocop
 - Twitter: [@shihab_uddin19](https://twitter.com/shihab_uddin19)
 - LinkedIn: [Shihab Uddin Khan](https://www.linkedin.com/in/shihab-uddin-khan-45620a16a/)
 
+👤 **Otmane Echchafyky**
+
+- GitHub: [@githubhandle](https://github.com/otmaneechchafyky)
+- Twitter: [@twitterhandle](https://twitter.com/EchchafykyO)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/otmane-echchafyky/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
