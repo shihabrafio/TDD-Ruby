@@ -19,3 +19,21 @@ describe 'reverse' do
     expect(solver.reverse_str("hello")).to eq("olleh")
   end
 end
+
+describe 'fizzbuzz an integer' do
+  it 'Should return fizz' do
+    expect(solver.fizzbuzz(6)).to eq("fizz")
+  end
+
+  it 'Should return fizz' do
+    expect(solver.fizzbuzz(10)).to eq("buzz")
+  end
+
+  it 'Should return fizz' do
+    expect(solver.fizzbuzz(15)).to eq("fizzbuzz")
+  end
+
+  it 'Should return fizz' do
+    expect(solver.fizzbuzz(7)).to eq(7.to_s)
+  end
+end
