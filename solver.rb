@@ -12,17 +12,16 @@ class Solver
   def reverse_str(str)
     str.reverse
   end
-end
 
-
-def fizzbuzz(N)
-  if N % 3 == 0
-    "fizz"
-  elsif N % 5 == 0
-    "buzz"
-  elsif N % 5 == 0 && N % 3 == 0
-    "fizzbuzz"
-  else
-    N.to_s
+  def fizzbuzz(n)
+    if n % 3 == 0
+      "fizz"
+    elsif n % 5 == 0
+      "buzz"
+    elsif n % 5 == 0 and n % 3 == 0
+      "fizzbuzz"
+    else
+      n.to_s
+    end
   end
 end
